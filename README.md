@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **VITransport**
 
-- 📄 I'm an Alpha MLSA @ Microsoft and Management Lead @ GDSC
+- 📄 I'm a Beta MLSA @ Microsoft and Management Lead @ GDSC
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate with other Full Stack Developers
 
