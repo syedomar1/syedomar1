@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Syed Omar Albeez</h1>
-<h3 align="center"><u>A Sophomore Web Developer🧑🏻‍💻</u></h3>
+<h3 align="center"><u>A Full-Stack Developer🧑🏻‍💻</u></h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-- 🔭 I’m currently working on **WearHaven**
+- 🔭 I’m currently working on **VITransport**
 
 - 📄 I'm a Beta MLSA @ Microsoft and Management Lead @ GDSC
 
