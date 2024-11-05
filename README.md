@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DriveSync**
 
-- 📄 I'm a Beta MLSA @ Microsoft and Management Lead @ GDSC
+- 📄 I'm a Beta MLSA @ Microsoft and Secretary @ GDG VITC
 
 - 🌱 I’m currently mastering **Next.js**
 
