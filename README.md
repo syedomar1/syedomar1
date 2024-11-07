@@ -23,7 +23,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syed-omar-albeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-omar-albeez" height="30" width="40" /></a>
-<a href="https://syedomar.netlify.app/" target="blank"><img align="center" src="https://syedomar.netlify.app/static/media/logo3.4b6600ee704288816f6f1d4a41ad8af2.svg" alt="syed-omar-albeez" height="30" width="40" /></a>  
+<a href="https://syedomar.netlify.app/" target="blank"><img align="center" src="https://syedomar.netlify.app/static/media/logo.8ce21cf51d481749f4b34c7523914fb1.svg" alt="syed-omar-albeez" height="30" width="40" /></a>  
 <a href="https://twitter.com/syedomar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedomar_" height="30" width="40" /></a>
 <a href="https://instagram.com/syedomar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedomar_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syedomar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedomar_" height="30" width="40" /></a>
