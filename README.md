@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Syed Omar Albeez</h1>
-<h3 align="center"><u>A Full-Stack Developer🧑🏻‍💻</u></h3>
+<h3 align="center"><u>A Full-Stack AI Developer🧑🏻‍💻</u></h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-- 🔭 I’m currently working on **Obscurix**
+- 🔭 I’m currently working on **Boxity**
 
 - 📄 I'm a Beta MLSA @ Microsoft and ex-Secretary @ GDG VITC
 
-- 🌱 I’m currently mastering **Django**
+- 🌱 I’m currently mastering on **RAG Applications**
 
 - 👯 I’m looking to collaborate with other Full Stack Developers
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Machine Learning, Web Development**
 
 - 📫 How to reach me **soalbeez1@gmail.com**
 
